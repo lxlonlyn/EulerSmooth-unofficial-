@@ -1,3 +1,17 @@
+# EulerSmooth复现
+
+## 论文
+
+Paolo Simonetto, Daniel Archambault, and Carlos Scheidegger
+
+《A Simple Approach for Boundary Improvement of Euler Diagrams》
+
+IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, VOL. 22, NO. 1, JANUARY 2016
+
+## 警告
+
+该代码尚在完善中。
+
 ## 使用说明
 
 ### 运行条件
